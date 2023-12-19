@@ -35,7 +35,7 @@ DB_URI = os.environ.get("DATABASE_URL", "postgres://phjitjdh:NcfL8Bp3_Fo8IWGzkW1
 PROTECT_CONTENT = strtobool(os.environ.get("PROTECT_CONTENT", "False"))
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_1 = int(os.environ.get("FORCE_SUB_1", "-1002079404437"))
+FORCE_SUB_1 = int(os.environ.get("FORCE_SUB_1", "-1002086615789"))
 FORCE_SUB_2 = int(os.environ.get("FORCE_SUB_2", "-1001850358707"))
 FORCE_SUB_3 = int(os.environ.get("FORCE_SUB_3", "0"))
 FORCE_SUB_4 = int(os.environ.get("FORCE_SUB_4", "0"))
